@@ -45,7 +45,8 @@ Setup
 
 [Reference] [23] 
 
-![Img1](http://postimg.org/image/q1wxlpz0x/)
+![Screenshot](http://postimg.org/image/q1wxlpz0x/)
+![Screen2] (http://postimg.org/image/q1wxlpz0x/)
 
  [1]: https://play.google.com/store/apps/details?id=com.haarman.listviewanimations
  [2]: http://nineoldandroids.com/
