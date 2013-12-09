@@ -47,11 +47,18 @@ Setup
 
 ![Screenshot](http://s28.postimg.org/8oeytu8kd/image.png)
 
-![Screenshot1](http://s22.postimg.org/77ybfvgj5/image.png) ![Screenshot2](http://s18.postimg.org/udko73vnt/image.png)
-![Screenshot3]()
-![Screenshot3]()
-![Screenshot3]()
-![Screenshot3]()
+![Screenshot1](http://s22.postimg.org/77ybfvgj5/image.png)
+
+![Screenshot2](http://s18.postimg.org/udko73vnt/image.png) 
+
+![Screenshot3](http://s28.postimg.org/yhjf3xw4d/image.png)
+
+![Screenshot4](http://s29.postimg.org/3vxujy7dz/image.png)
+
+![Screenshot5](http://s7.postimg.org/44njhlf2z/image.png)
+
+![Screenshot6](http://s27.postimg.org/oi9nf980j/s10.png)
+
 
  [1]: https://play.google.com/store/apps/details?id=com.haarman.listviewanimations
  [2]: http://nineoldandroids.com/
